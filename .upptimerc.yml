@@ -9,6 +9,9 @@ sites:
     url: https://www.fh-dortmund.de/
   - name: Ilias
     url: https://www.ilias.fh-dortmund.de
+  - name: Portal
+    url: https://portal.fh-dortmund.de/
+    method: GET
 
 status-website:
   baseUrl: /Status
