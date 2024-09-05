@@ -9,11 +9,6 @@ sites:
     url: https://www.fh-dortmund.de/
   - name: Ilias
     url: https://www.ilias.fh-dortmund.de
-  - name: Portal
-    url: https://portal.fh-dortmund.de
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   baseUrl: /Status
