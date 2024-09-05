@@ -1,23 +1,21 @@
 [
   {
-    "name": "Google",
-    "url": "https://stud-lerngruppe22.great-site.net",
-    "icon": "https://icons.duckduckgo.com/ip3/stud-lerngruppe22.great-site.net.ico",
-    "slug": "google",
-    "status": "down",
+    "name": "Lerngruppe22 Seite",
+    "url": "stud-lerngruppe22.great-site.net",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "lerngruppe22-seite",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-05": 0
-    }
+    "time": 349,
+    "timeDay": 349,
+    "timeWeek": 349,
+    "timeMonth": 349,
+    "timeYear": 349,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FH-Dortmund",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1296,
-    "timeDay": 1296,
-    "timeWeek": 1296,
-    "timeMonth": 1296,
-    "timeYear": 1296,
+    "time": 1243,
+    "timeDay": 1243,
+    "timeWeek": 1243,
+    "timeMonth": 1243,
+    "timeYear": 1243,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1719,
-    "timeDay": 1719,
-    "timeWeek": 1719,
-    "timeMonth": 1719,
-    "timeYear": 1719,
+    "time": 1688,
+    "timeDay": 1688,
+    "timeWeek": 1688,
+    "timeMonth": 1688,
+    "timeYear": 1688,
     "dailyMinutesDown": {}
   },
   {
@@ -72,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-05": 0
+      "2024-09-05": 10
     }
   }
 ]
