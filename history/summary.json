@@ -4,19 +4,19 @@
     "url": "stud-lerngruppe22.great-site.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lerngruppe22-seite",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 350,
-    "timeWeek": 292,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 289,
+    "timeDay": 305,
+    "timeWeek": 289,
+    "timeMonth": 289,
+    "timeYear": 289,
     "dailyMinutesDown": {
-      "2024-09-09": 0
+      "2024-09-09": 15
     }
   },
   {
