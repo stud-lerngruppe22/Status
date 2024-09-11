@@ -13,7 +13,7 @@ sites:
     url: https://portal.fh-dortmund.de/
     method: GET
   - name: Test
-    url: https://ortal.fh-dortmund.de/
+    url: https://tal.fh-dortmund.de/
     method: GET
 
 status-website:
