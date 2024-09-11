@@ -10,11 +10,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
-    "time": 327,
-    "timeDay": 419,
-    "timeWeek": 327,
-    "timeMonth": 327,
-    "timeYear": 327,
+    "time": 326,
+    "timeDay": 383,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2024-09-09": 15
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1067,
-    "timeDay": 1285,
-    "timeWeek": 1067,
-    "timeMonth": 1067,
-    "timeYear": 1067,
+    "time": 1051,
+    "timeDay": 1139,
+    "timeWeek": 1051,
+    "timeMonth": 1051,
+    "timeYear": 1051,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1656,
-    "timeDay": 2029,
-    "timeWeek": 1656,
-    "timeMonth": 1656,
-    "timeYear": 1656,
+    "time": 1665,
+    "timeDay": 1945,
+    "timeWeek": 1665,
+    "timeMonth": 1665,
+    "timeYear": 1665,
     "dailyMinutesDown": {}
   },
   {
@@ -66,33 +66,13 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 1088,
-    "timeDay": 663,
-    "timeWeek": 1088,
-    "timeMonth": 1088,
-    "timeYear": 1088,
+    "time": 1044,
+    "timeDay": 645,
+    "timeWeek": 1044,
+    "timeMonth": 1044,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2024-09-05": 17
-    }
-  },
-  {
-    "name": "Test",
-    "url": "https://tal.fh-dortmund.de/",
-    "icon": "https://icons.duckduckgo.com/ip3/tal.fh-dortmund.de.ico",
-    "slug": "test",
-    "status": "down",
-    "uptime": "7.35%",
-    "uptimeDay": "7.35%",
-    "uptimeWeek": "7.35%",
-    "uptimeMonth": "7.35%",
-    "uptimeYear": "7.35%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-11": 0
     }
   }
 ]
