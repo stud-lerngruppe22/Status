@@ -12,9 +12,6 @@ sites:
   - name: Portal
     url: https://portal.fh-dortmund.de/
     method: GET
-  - name: Test
-    url: https://tal.fh-dortmund.de/
-    method: GET
 
 status-website:
   baseUrl: /Status
