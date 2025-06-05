@@ -16,7 +16,7 @@
     "timeMonth": 511,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-06-05": 0,
+      "2025-06-05": 1,
       "2025-05-31": 26,
       "2025-05-30": 9,
       "2025-05-28": 25,
@@ -159,18 +159,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fachhoch.schule.ico",
     "slug": "fachhoch-schule",
     "status": "down",
-    "uptime": "1.48%",
-    "uptimeDay": "1.48%",
-    "uptimeWeek": "1.48%",
-    "uptimeMonth": "1.48%",
-    "uptimeYear": "1.48%",
+    "uptime": "1.50%",
+    "uptimeDay": "1.50%",
+    "uptimeWeek": "1.50%",
+    "uptimeMonth": "1.50%",
+    "uptimeYear": "1.50%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-05": 17
+      "2025-06-05": 18
     }
   }
 ]
