@@ -4,9 +4,9 @@
     "url": "stud-lerngruppe22.great-site.net",
     "icon": "https://stud-lerngruppe22.great-site.net/favicon.ico",
     "slug": "lerngruppe22-seite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.84%",
@@ -16,6 +16,7 @@
     "timeMonth": 511,
     "timeYear": 453,
     "dailyMinutesDown": {
+      "2025-06-05": 0,
       "2025-05-31": 26,
       "2025-05-30": 9,
       "2025-05-28": 25,
@@ -56,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1110,
-    "timeDay": 1104,
-    "timeWeek": 1040,
-    "timeMonth": 1050,
-    "timeYear": 1110,
+    "time": 1109,
+    "timeDay": 1020,
+    "timeWeek": 1013,
+    "timeMonth": 1042,
+    "timeYear": 1109,
     "dailyMinutesDown": {
       "2024-12-23": 9,
       "2024-10-21": 18
@@ -77,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1509,
-    "timeDay": 1459,
-    "timeWeek": 1413,
-    "timeMonth": 1431,
-    "timeYear": 1509,
+    "time": 1508,
+    "timeDay": 1414,
+    "timeWeek": 1400,
+    "timeMonth": 1426,
+    "timeYear": 1508,
     "dailyMinutesDown": {
       "2024-12-23": 35,
       "2024-11-27": 179,
@@ -93,8 +94,8 @@
   },
   {
     "name": "Portal",
-    "url": "https://portal.fh-dortmund.de/",
-    "icon": "https://icons.duckduckgo.com/ip3/portal.fh-dortmund.de.ico",
+    "url": "https://portal.fh-dortmund.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces",
+    "icon": "https://www.ilias.fh-dortmund.de/ilias/templates/default/images/favicon.ico",
     "slug": "portal",
     "status": "down",
     "uptime": "86.64%",
@@ -108,7 +109,7 @@
     "timeMonth": 0,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2025-06-05": 741,
+      "2025-06-05": 755,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
@@ -158,18 +159,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fachhoch.schule.ico",
     "slug": "fachhoch-schule",
     "status": "down",
-    "uptime": "6.67%",
-    "uptimeDay": "6.67%",
-    "uptimeWeek": "6.67%",
-    "uptimeMonth": "6.67%",
-    "uptimeYear": "6.67%",
+    "uptime": "1.48%",
+    "uptimeDay": "1.48%",
+    "uptimeWeek": "1.48%",
+    "uptimeMonth": "1.48%",
+    "uptimeYear": "1.48%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-05": 4
+      "2025-06-05": 17
     }
   }
 ]
