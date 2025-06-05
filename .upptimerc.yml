@@ -11,8 +11,9 @@ sites:
   - name: Ilias
     url: https://www.ilias.fh-dortmund.de
   - name: Portal
-    url: https://portal.fh-dortmund.de/
+    url: https://portal.fh-dortmund.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces
     method: GET
+    icon: https://www.ilias.fh-dortmund.de/ilias/templates/default/images/favicon.ico
   - name: Fachhoch.schule
     url: https://fachhoch.schule/
     method: GET
