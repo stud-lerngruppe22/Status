@@ -29,6 +29,8 @@ status-website:
       href: /Status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: GitHub Lerngruppe22
+      href: https://github.com/stud-lerngruppe22
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
