@@ -13,6 +13,9 @@ sites:
   - name: Portal
     url: https://portal.fh-dortmund.de/
     method: GET
+  - name: Fachhoch.schule
+    url: https://fachhoch.schule/
+    method: GET
 
 status-website:
   baseUrl: /Status
