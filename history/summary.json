@@ -4,11 +4,11 @@
     "url": "https://stud-lerngruppe22.great-site.net/",
     "icon": "https://stud-lerngruppe22.great-site.net/favicon.ico",
     "slug": "lerngruppe22-seite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "90.68%",
-    "uptimeWeek": "85.40%",
-    "uptimeMonth": "94.54%",
+    "uptimeDay": "90.67%",
+    "uptimeWeek": "85.55%",
+    "uptimeMonth": "94.56%",
     "uptimeYear": "99.46%",
     "time": 527,
     "timeDay": 1087,
@@ -16,6 +16,7 @@
     "timeMonth": 663,
     "timeYear": 527,
     "dailyMinutesDown": {
+      "2025-07-11": 0,
       "2025-07-10": 135,
       "2025-07-09": 233,
       "2025-07-08": 120,
@@ -29,8 +30,7 @@
       "2025-06-20": 227,
       "2025-06-19": 272,
       "2025-06-18": 190,
-      "2025-06-17": 156,
-      "2025-06-16": 9
+      "2025-06-17": 156
     }
   },
   {
@@ -146,11 +146,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fachhoch.schule.ico",
     "slug": "fachhoch-schule",
     "status": "up",
-    "uptime": "80.14%",
+    "uptime": "80.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.09%",
-    "uptimeYear": "80.14%",
+    "uptimeYear": "80.25%",
     "time": 870,
     "timeDay": 881,
     "timeWeek": 862,
