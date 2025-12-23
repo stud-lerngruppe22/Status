@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.39%",
     "time": 618,
-    "timeDay": 477,
-    "timeWeek": 986,
-    "timeMonth": 863,
-    "timeYear": 668,
+    "timeDay": 658,
+    "timeWeek": 1027,
+    "timeMonth": 851,
+    "timeYear": 669,
     "dailyMinutesDown": {
       "2025-12-20": 20,
       "2025-12-19": 8,
@@ -55,14 +55,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1104,
-    "timeDay": 1462,
-    "timeWeek": 1271,
-    "timeMonth": 1301,
-    "timeYear": 1076,
+    "time": 1105,
+    "timeDay": 1607,
+    "timeWeek": 1294,
+    "timeMonth": 1325,
+    "timeYear": 1079,
     "dailyMinutesDown": {
-      "2025-08-05": 14,
-      "2024-12-23": 9
+      "2025-08-05": 14
     }
   },
   {
@@ -76,14 +75,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1487,
-    "timeDay": 1379,
-    "timeWeek": 1384,
-    "timeMonth": 1413,
+    "time": 1485,
+    "timeDay": 1524,
+    "timeWeek": 1436,
+    "timeMonth": 1421,
     "timeYear": 1427,
-    "dailyMinutesDown": {
-      "2024-12-23": 35
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portal",
@@ -91,12 +88,12 @@
     "icon": "https://www.ilias.fh-dortmund.de/ilias/templates/default/images/favicon.ico",
     "slug": "portal",
     "status": "down",
-    "uptime": "92.29%",
+    "uptime": "92.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.03%",
-    "time": 659,
+    "time": 660,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -139,8 +136,7 @@
       "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1201,
-      "2025-02-12": 9,
-      "2024-12-23": 33
+      "2025-02-12": 9
     }
   },
   {
@@ -149,16 +145,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fachhoch.schule.ico",
     "slug": "fachhoch-schule",
     "status": "up",
-    "uptime": "94.41%",
+    "uptime": "94.42%",
     "uptimeDay": "91.77%",
     "uptimeWeek": "96.76%",
     "uptimeMonth": "98.64%",
-    "uptimeYear": "94.41%",
-    "time": 1039,
-    "timeDay": 5433,
-    "timeWeek": 2114,
-    "timeMonth": 1843,
-    "timeYear": 1039,
+    "uptimeYear": "94.42%",
+    "time": 1037,
+    "timeDay": 5458,
+    "timeWeek": 2112,
+    "timeMonth": 1793,
+    "timeYear": 1037,
     "dailyMinutesDown": {
       "2025-12-22": 118,
       "2025-12-16": 209,
