@@ -72,10 +72,10 @@
     "url": "https://www.ilias.fh-dortmund.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.ilias.fh-dortmund.de.ico",
     "slug": "ilias",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1482,
@@ -83,7 +83,9 @@
     "timeWeek": 1403,
     "timeMonth": 1409,
     "timeYear": 1402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-29": 1
+    }
   },
   {
     "name": "Portal",
@@ -148,11 +150,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fachhoch.schule.ico",
     "slug": "fachhoch-schule",
     "status": "up",
-    "uptime": "94.32%",
+    "uptime": "94.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.07%",
     "uptimeMonth": "96.83%",
-    "uptimeYear": "94.32%",
+    "uptimeYear": "94.33%",
     "time": 1025,
     "timeDay": 717,
     "timeWeek": 877,
