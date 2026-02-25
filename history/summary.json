@@ -4,17 +4,17 @@
     "url": "https://stud-lerngruppe22.great-site.net/",
     "icon": "https://stud-lerngruppe22.great-site.net/favicon.ico",
     "slug": "lerngruppe22-seite",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "80.83%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "80.82%",
     "uptimeWeek": "85.16%",
-    "uptimeMonth": "89.04%",
-    "uptimeYear": "99.09%",
+    "uptimeMonth": "89.15%",
+    "uptimeYear": "99.10%",
     "time": 741,
     "timeDay": 879,
     "timeWeek": 709,
-    "timeMonth": 975,
-    "timeYear": 781,
+    "timeMonth": 977,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2026-02-25": 276,
       "2026-02-24": 119,
@@ -39,7 +39,7 @@
       "2026-02-05": 236,
       "2026-02-04": 409,
       "2026-02-03": 88,
-      "2026-02-02": 89
+      "2026-02-02": 43
     }
   },
   {
@@ -56,8 +56,8 @@
     "time": 1141,
     "timeDay": 1484,
     "timeWeek": 1242,
-    "timeMonth": 1346,
-    "timeYear": 1135,
+    "timeMonth": 1341,
+    "timeYear": 1136,
     "dailyMinutesDown": {
       "2026-01-07": 9,
       "2025-12-29": 35,
@@ -78,8 +78,8 @@
     "time": 1574,
     "timeDay": 2183,
     "timeWeek": 1926,
-    "timeMonth": 2007,
-    "timeYear": 1591,
+    "timeMonth": 2001,
+    "timeYear": 1592,
     "dailyMinutesDown": {
       "2026-01-14": 246,
       "2026-01-07": 7,
@@ -101,7 +101,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 666,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2025-06-05": 765,
       "2025-06-04": 1440,
