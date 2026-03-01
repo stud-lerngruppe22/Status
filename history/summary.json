@@ -4,15 +4,15 @@
     "url": "https://stud-lerngruppe22.great-site.net/",
     "icon": "https://stud-lerngruppe22.great-site.net/favicon.ico",
     "slug": "lerngruppe22-seite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "94.85%",
-    "uptimeWeek": "90.71%",
-    "uptimeMonth": "90.05%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "90.09%",
     "uptimeYear": "99.17%",
     "time": 713,
-    "timeDay": 705,
-    "timeWeek": 743,
+    "timeDay": 740,
+    "timeWeek": 746,
     "timeMonth": 707,
     "timeYear": 781,
     "dailyMinutesDown": {
@@ -40,7 +40,7 @@
       "2026-02-08": 260,
       "2026-02-07": 197,
       "2026-02-06": 74,
-      "2026-02-05": 28
+      "2026-02-05": 8
     }
   },
   {
@@ -93,7 +93,7 @@
     "icon": "https://www.ilias.fh-dortmund.de/ilias/templates/default/images/favicon.ico",
     "slug": "portal",
     "status": "down",
-    "uptime": "93.27%",
+    "uptime": "93.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -152,7 +152,7 @@
     "uptime": "94.12%",
     "uptimeDay": "96.10%",
     "uptimeWeek": "99.32%",
-    "uptimeMonth": "91.10%",
+    "uptimeMonth": "91.34%",
     "uptimeYear": "94.12%",
     "time": 1034,
     "timeDay": 742,
