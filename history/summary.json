@@ -8,7 +8,7 @@
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.94%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "98.91%",
     "time": 816,
     "timeDay": 641,
@@ -118,11 +118,11 @@
     "url": "https://fachhoch.schule/",
     "icon": "https://icons.duckduckgo.com/ip3/fachhoch.schule.ico",
     "slug": "fachhoch-schule",
-    "status": "up",
+    "status": "down",
     "uptime": "94.12%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.65%",
+    "uptimeMonth": "96.13%",
     "uptimeYear": "95.42%",
     "time": 1028,
     "timeDay": 792,
@@ -186,7 +186,8 @@
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
-      "2026-06-12": 253
+      "2026-06-12": 253,
+      "2026-07-15": 0
     }
   }
 ]
