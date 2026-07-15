@@ -118,17 +118,17 @@
     "url": "https://fachhoch.schule/",
     "icon": "https://icons.duckduckgo.com/ip3/fachhoch.schule.ico",
     "slug": "fachhoch-schule",
-    "status": "down",
-    "uptime": "94.07%",
-    "uptimeDay": "75.88%",
-    "uptimeWeek": "96.55%",
+    "status": "up",
+    "uptime": "94.06%",
+    "uptimeDay": "71.98%",
+    "uptimeWeek": "96.00%",
     "uptimeMonth": "96.95%",
-    "uptimeYear": "95.36%",
-    "time": 1027,
-    "timeDay": 633,
-    "timeWeek": 1063,
-    "timeMonth": 792,
-    "timeYear": 1045,
+    "uptimeYear": "95.35%",
+    "time": 1025,
+    "timeDay": 574,
+    "timeWeek": 996,
+    "timeMonth": 781,
+    "timeYear": 1043,
     "dailyMinutesDown": {
       "2025-07-16": 1397,
       "2025-07-17": 44,
@@ -187,7 +187,7 @@
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 253,
-      "2026-07-15": 347
+      "2026-07-15": 404
     }
   }
 ]
