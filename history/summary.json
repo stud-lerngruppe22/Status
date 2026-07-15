@@ -101,7 +101,7 @@
     "icon": "https://www.ilias.fh-dortmund.de/ilias/templates/default/images/favicon.ico",
     "slug": "portal",
     "status": "up",
-    "uptime": "94.62%",
+    "uptime": "94.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -118,17 +118,17 @@
     "url": "https://fachhoch.schule/",
     "icon": "https://icons.duckduckgo.com/ip3/fachhoch.schule.ico",
     "slug": "fachhoch-schule",
-    "status": "down",
-    "uptime": "94.06%",
-    "uptimeDay": "71.95%",
-    "uptimeWeek": "95.99%",
+    "status": "up",
+    "uptime": "94.04%",
+    "uptimeDay": "64.00%",
+    "uptimeWeek": "94.86%",
     "uptimeMonth": "97.11%",
     "uptimeYear": "95.36%",
-    "time": 1025,
-    "timeDay": 574,
-    "timeWeek": 996,
-    "timeMonth": 781,
-    "timeYear": 1043,
+    "time": 1024,
+    "timeDay": 560,
+    "timeWeek": 948,
+    "timeMonth": 773,
+    "timeYear": 1042,
     "dailyMinutesDown": {
       "2025-07-16": 1397,
       "2025-07-17": 44,
@@ -187,7 +187,7 @@
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 253,
-      "2026-07-15": 404
+      "2026-07-15": 519
     }
   }
 ]
