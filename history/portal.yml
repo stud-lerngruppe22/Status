@@ -1,7 +1,7 @@
 url: https://portal.fh-dortmund.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces
-status: down
-code: 503
-responseTime: 1226
-lastUpdated: 2026-08-23T04:20:43.068Z
+status: up
+code: 200
+responseTime: 1036
+lastUpdated: 2026-08-23T06:21:49.075Z
 startTime: 2024-09-05T20:17:02.416Z
 generator: Upptime <https://github.com/upptime/upptime>
