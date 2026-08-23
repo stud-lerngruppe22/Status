@@ -98,18 +98,20 @@
     "url": "https://portal.fh-dortmund.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces",
     "icon": "https://www.ilias.fh-dortmund.de/ilias/templates/default/images/favicon.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "94.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1100,
-    "timeDay": 1168,
-    "timeWeek": 982,
-    "timeMonth": 1054,
-    "timeYear": 1116,
-    "dailyMinutesDown": {}
+    "time": 1104,
+    "timeDay": 1197,
+    "timeWeek": 1013,
+    "timeMonth": 1060,
+    "timeYear": 1117,
+    "dailyMinutesDown": {
+      "2026-08-23": 0
+    }
   },
   {
     "name": "Fachhoch.schule",
@@ -119,7 +121,7 @@
     "status": "up",
     "uptime": "93.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.54%",
+    "uptimeWeek": "92.29%",
     "uptimeMonth": "93.53%",
     "uptimeYear": "95.63%",
     "time": 1040,
