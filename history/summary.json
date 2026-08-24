@@ -4,17 +4,17 @@
     "url": "https://stud-lerngruppe22.great-site.net/",
     "icon": "https://stud-lerngruppe22.great-site.net/favicon.ico",
     "slug": "lerngruppe22-seite",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "94.74%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "98.93%",
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "88.48%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "98.91%",
     "time": 827,
-    "timeDay": 684,
-    "timeWeek": 2559,
-    "timeMonth": 923,
-    "timeYear": 826,
+    "timeDay": 610,
+    "timeWeek": 2306,
+    "timeMonth": 913,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2026-02-19": 37,
       "2026-02-20": 172,
@@ -48,7 +48,7 @@
       "2026-06-15": 462,
       "2026-06-16": 1,
       "2026-08-16": 201,
-      "2026-08-24": 76
+      "2026-08-24": 166
     }
   },
   {
