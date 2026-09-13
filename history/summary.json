@@ -118,10 +118,10 @@
     "url": "https://fachhoch.schule/",
     "icon": "https://icons.duckduckgo.com/ip3/fachhoch.schule.ico",
     "slug": "fachhoch-schule",
-    "status": "up",
-    "uptime": "93.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "81.52%",
+    "status": "down",
+    "uptime": "93.62%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "89.64%",
     "uptimeMonth": "83.74%",
     "uptimeYear": "94.82%",
     "time": 1028,
@@ -186,7 +186,8 @@
       "2026-09-07": 647,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
-      "2026-09-04": 764
+      "2026-09-04": 764,
+      "2026-09-13": 0
     }
   }
 ]
