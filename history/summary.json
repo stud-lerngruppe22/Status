@@ -98,22 +98,22 @@
     "url": "https://portal.fh-dortmund.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces",
     "icon": "https://www.ilias.fh-dortmund.de/ilias/templates/default/images/favicon.ico",
     "slug": "portal",
-    "status": "down",
-    "uptime": "95.40%",
-    "uptimeDay": "82.60%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "98.13%",
-    "uptimeYear": "99.82%",
+    "status": "up",
+    "uptime": "95.39%",
+    "uptimeDay": "70.88%",
+    "uptimeWeek": "95.84%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "99.79%",
     "time": 1093,
-    "timeDay": 0,
-    "timeWeek": 933,
-    "timeMonth": 1022,
-    "timeYear": 1110,
+    "timeDay": 645,
+    "timeWeek": 892,
+    "timeMonth": 1010,
+    "timeYear": 1108,
     "dailyMinutesDown": {
       "2026-08-23": 121,
       "2026-10-30": 544,
       "2026-10-29": 26,
-      "2026-11-21": 250
+      "2026-11-21": 419
     }
   },
   {
