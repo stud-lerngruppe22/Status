@@ -13,7 +13,7 @@
     "time": 803,
     "timeDay": 710,
     "timeWeek": 486,
-    "timeMonth": 518,
+    "timeMonth": 517,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2026-02-20": 172,
@@ -64,7 +64,7 @@
     "time": 1195,
     "timeDay": 1273,
     "timeWeek": 1126,
-    "timeMonth": 1235,
+    "timeMonth": 1230,
     "timeYear": 1249,
     "dailyMinutesDown": {
       "2025-12-29": 35,
@@ -85,7 +85,7 @@
     "time": 2209,
     "timeDay": 2988,
     "timeWeek": 2623,
-    "timeMonth": 2768,
+    "timeMonth": 2764,
     "timeYear": 2539,
     "dailyMinutesDown": {
       "2025-12-29": 8,
@@ -98,22 +98,23 @@
     "url": "https://portal.fh-dortmund.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces",
     "icon": "https://www.ilias.fh-dortmund.de/ilias/templates/default/images/favicon.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "95.39%",
-    "uptimeDay": "70.88%",
+    "uptimeDay": "70.86%",
     "uptimeWeek": "95.84%",
     "uptimeMonth": "97.74%",
     "uptimeYear": "99.79%",
-    "time": 1093,
+    "time": 1094,
     "timeDay": 645,
     "timeWeek": 892,
-    "timeMonth": 1010,
+    "timeMonth": 1011,
     "timeYear": 1108,
     "dailyMinutesDown": {
       "2026-08-23": 121,
       "2026-10-30": 544,
       "2026-10-29": 26,
-      "2026-11-21": 419
+      "2026-11-21": 419,
+      "2026-11-22": 0
     }
   },
   {
@@ -122,7 +123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fachhoch.schule.ico",
     "slug": "fachhoch-schule",
     "status": "up",
-    "uptime": "93.88%",
+    "uptime": "93.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
